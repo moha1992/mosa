@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
   const kboosh = new Discord.Client();
-    const kbooshtoken = "NTIyMDMwNjMyNjQyMjgxNDcy.DvFDXg.dHFKKSxoDSz_TOUyqgjjURHGy9M"
+    const kbooshtoken = ""
       kboosh.on('ready', () => {
         kboosh.user.setGame(`Hello`,'https://www.twitch.tv/TEST-Broadcast');
           console.log('Im Ready!');
