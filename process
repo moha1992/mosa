@@ -1,1 +1,1 @@
-web:npm start install discord.js --save
+npm start install discord.js --save
